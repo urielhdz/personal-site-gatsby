@@ -1,0 +1,32 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+  @apply bg-gray-100 font-sans;
+}
+
+.repos-list{
+  -moz-columns:3;
+  columns:3;
+  column-rule: 1px solid;
+  @apply pb-4 mt-8;
+}
+.repos-list li{
+  /* @apply border-separate border-solid border-b p-4 rounded; */
+
+  @apply p-4;
+  break-inside: avoid-column;
+  box-sizing:border-box;
+}
+.my-btn{
+  @apply inline-block ml-4  bg-purple-500  text-white font-bold py-2 px-4 border-b-4 border-purple-700  rounded;
+}
+.min-width-300{
+  min-width: 300px;
+}
+.min-height-12{
+  min-height: 3em;
+}

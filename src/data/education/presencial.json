@@ -1,0 +1,17 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+  "items": [
+    {
+      "name": "Universidad Politécnica de Chiapas",
+      "degree": "Ing. en Desarrollo de Sofware",
+      "score": "94"
+    },
+    {
+      "name": "CBTIS 144",
+      "degree": "Técnico en computación",
+      "score": "XX"
+    }
+  ]
+}

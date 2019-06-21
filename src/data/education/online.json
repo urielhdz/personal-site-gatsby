@@ -1,0 +1,19 @@
+{
+  "slug": "online",
+  "title": "Cursos en línea",
+  "description": "Cursos finalizados en plataformas de educación en internet",
+  "items": [
+    {
+      "name": "Curso de Materialize",
+      "url": "http://codigofacilito.com/courses/materialize"
+    },
+    {
+      "name": "Curso de MongoDB",
+      "url": "http://codigofacilito.com/courses/mongodb"
+    },
+    {
+      "name": "Curso Profesional Desarrollo Web",
+      "url": "http://codigofacilito.com/courses/frontend-profesional"
+    }
+  ]
+}

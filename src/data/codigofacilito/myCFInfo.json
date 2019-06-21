@@ -1,0 +1,88 @@
+{
+  "data": {
+  "email": "uriel@codigofacilito.com",
+  "username": "uriel",
+  "certificates": [
+        {
+  "score": 10,
+  "code": "dde4cb18-77e9-4de2-8697-3680da3b0bfe",
+  "title": "Curso Profesional Desarrollo Web"
+        },
+        {
+  "score": 10,
+  "code": "642d6f5e-113b-45e7-b665-a4d040eccdc0",
+  "title": "Curso Profesional Desarrollo Web"
+        }
+      ],
+  "articles": [
+        {
+  "title": "Los tipos Query y Mutation",
+  "visits": 11,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/tipos-query-mutation"
+        },
+        {
+  "title": "Sistema de tipado en GraphQL",
+  "visits": 14,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/sistema-tipado-graphql"
+        },
+        {
+  "title": "El schema",
+  "visits": 21,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/schema-graphql"
+        },
+        {
+  "title": "Qué es GraphQL",
+  "visits": 504,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/que-es-graphql"
+        },
+        {
+  "title": "Qué es un servicio web",
+  "visits": 50,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/servicio-web-graphql"
+        },
+        {
+  "title": "Trabajando con gemsets en Ruby con RVM",
+  "visits": 444,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/rvm-gemsets"
+        },
+        {
+  "title": "El rey multiplataforma: Flutter ",
+  "visits": 2365,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/flutter-multiplataforma"
+        },
+        {
+  "title": "Acelera tus conteos con counter caches en Ruby on Rails",
+  "visits": 454,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/counter-cache-rails"
+        },
+        {
+  "title": "Instalar Ruby y RoR en MacOS",
+  "visits": 308,
+  "state": "published",
+  "url": "http://codigofacilito.com/articles/instalar-macos"
+        }        
+      ],
+  "finished_courses": [
+        {
+  "title": "Curso de Materialize",
+  "url": "http://codigofacilito.com/courses/materialize"
+        },
+        {
+  "title": "Curso de MongoDB",
+  "url": "http://codigofacilito.com/courses/mongodb"
+        },
+        {
+  "title": "Curso Profesional Desarrollo Web",
+  "url": "http://codigofacilito.com/courses/frontend-profesional"
+        }
+      ]
+    }
+}

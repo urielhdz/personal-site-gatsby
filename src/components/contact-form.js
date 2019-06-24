@@ -13,7 +13,7 @@ export default () => {
           placeholder="Contacta conmigo">
 
         </textarea>
-        <button className="my-btn">
+        <button className="my-btn" type="submit">
           Enviar
         </button>
       </div>

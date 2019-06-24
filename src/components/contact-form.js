@@ -1,7 +1,7 @@
 import React from "react";
 export default () => {
   return (
-    <form className="mt-16 text-center">
+    <form className="mt-16 text-center" data-netlify="true">
       <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="contact-content">
         Cuéntame de esa idea que quieres hacer realidad:
       </label>

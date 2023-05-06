@@ -13,17 +13,17 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.9.6",
+    "gatsby": "^5.9.0",
     "gatsby-image": "^2.1.4",
     "gatsby-plugin-postcss": "^2.0.7",
     "gatsby-plugin-sass": "^2.0.11",
-    "gatsby-plugin-sharp": "^2.1.6",
+    "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-source-filesystem": "^2.0.41",
     "gatsby-transformer-json": "^2.1.11",
     "gatsby-transformer-sharp": "^2.1.21",
     "heroicons-ui": "^1.0.0",
     "node-sass": "^4.12.0",
-    "open-color": "^1.7.0",
+    "open-color": "^1.9.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "tailwindcss": "^1.0.4"
